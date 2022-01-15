@@ -1,0 +1,19 @@
+{
+  "name": "io-ts-validate",
+  "version": "0.0.0",
+  "private": true,
+  "main": "lib/index.js",
+  "types": "lib/index.d.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "tsconfig": "*",
+    "config": "*",
+    "typescript": "^4.5.3"
+  },
+  "peerDependencies": {
+    "fp-ts": "^2.11.7",
+    "io-ts": "^2.2.16"
+  }
+}
