@@ -2852,6 +2852,11 @@ forwarded@0.2.0:
   resolved "https://registry.yarnpkg.com/forwarded/-/forwarded-0.2.0.tgz#2269936428aad4c15c7ebe9779a84bf0b2a81811"
   integrity sha512-buRG0fpBtRHSTCOASe6hD258tEubFoRLb4ZNA6NxMVHNw2gOcwHo9wyablzMzOA5z9xA9L1KNjk/Nt6MT9aYow==
 
+fp-ts@^2.11.7:
+  version "2.11.7"
+  resolved "https://registry.yarnpkg.com/fp-ts/-/fp-ts-2.11.7.tgz#ac05ac9a682bcbde669d34c5d5a16d19bb7a4ab8"
+  integrity sha512-UUpeygu50mV/J96Nk92fzHDznYXJxsO20wrUZGJppja1f8P+fhCaclcqcfubEyrH7XXPsmYn98CJF0BVAEn3ZQ==
+
 fresh@0.5.2:
   version "0.5.2"
   resolved "https://registry.yarnpkg.com/fresh/-/fresh-0.5.2.tgz#3d8cadd90d976569fa835ab1f8e4b23a105605a7"
@@ -3492,6 +3497,11 @@ internal-slot@^1.0.3:
     get-intrinsic "^1.1.0"
     has "^1.0.3"
     side-channel "^1.0.4"
+
+io-ts@^2.2.16:
+  version "2.2.16"
+  resolved "https://registry.yarnpkg.com/io-ts/-/io-ts-2.2.16.tgz#597dffa03db1913fc318c9c6df6931cb4ed808b2"
+  integrity sha512-y5TTSa6VP6le0hhmIyN0dqEXkrZeJLeC5KApJq6VLci3UEKF80lZ+KuoUs02RhBxNWlrqSNxzfI7otLX1Euv8Q==
 
 ip-regex@^4.1.0:
   version "4.3.0"
